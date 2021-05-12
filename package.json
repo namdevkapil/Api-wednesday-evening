@@ -1,0 +1,16 @@
+{
+  "name": "wednesdayevening",
+  "version": "1.0.0",
+  "description": "Restful API",
+  "main": "./src/config/index.js",
+  "scripts": {
+    "start": "nodemon ./src/config"
+  },
+  "keywords": [],
+  "author": "master",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.8"
+  }
+}
